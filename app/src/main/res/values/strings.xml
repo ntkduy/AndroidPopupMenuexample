@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Popup Menu example</string>
+
+    //activity_main text
+    <string name="button_text">Show Popup</string>
+
+    //popup_menu text
+    <string name="popup_menu_one">One</string>
+    <string name="popup_menu_two">Two</string>
+    <string name="popup_menu_three">Three</string>
+</resources>
